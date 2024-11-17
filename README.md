@@ -1,34 +1,27 @@
-# Blog website with Laravel for learning purpose
-
 ## Project setup
-
-### Install dependencies
-
-```
-composer install
-```
-
-### Install jetstream
-
 ```
 npm install
 ```
 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Migrate database
+### Lints and fixes files
+```
+npm run lint
+```
 
-```
-php artisan migrate
-```
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Start server
 
-```
-php artisan serve
-```
 
 ## Features
 
