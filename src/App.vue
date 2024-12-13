@@ -6,6 +6,7 @@
     <nav>
       <RouterLink to="/">Go to Home</RouterLink>
       <RouterLink to="/about">Go to About</RouterLink>
+      <RouterLink to="/post">Go to Post</RouterLink>
     </nav>
     <main>
       <RouterView />
@@ -22,7 +23,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
