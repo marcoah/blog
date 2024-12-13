@@ -1,3 +1,5 @@
+# blog
+
 ## Project setup
 ```
 npm install
@@ -20,21 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-
-## Features
-
-### Auth
-
--   Login / Logut
--   Reset Password
-
-### Profile Panel
-
--   Posts Management (CRUD)
-
-### Posts Panel
-
--   View Public Posts
--   Comments
