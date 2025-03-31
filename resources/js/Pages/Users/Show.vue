@@ -1,5 +1,4 @@
 <script setup>
-import Layout from "./Pages/Layout";
 import { Head } from "@inertiajs/vue3";
 
 defineProps({ user: Object });
